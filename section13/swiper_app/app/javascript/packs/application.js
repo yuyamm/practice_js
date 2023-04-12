@@ -8,7 +8,8 @@ import Turbolinks from "turbolinks"
 import * as ActiveStorage from "@rails/activestorage"
 import "channels"
 import "script.js"
-import 'jquery'
+// import 'jquery'
+import "packs/sample"
 import Swiper from 'swiper/swiper-bundle.js'; //この行を追記
 import 'swiper/swiper-bundle.css'; //この行を追記
 
